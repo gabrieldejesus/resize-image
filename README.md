@@ -1,4 +1,4 @@
-# Ordering
+# Resize Image
 
 📏 A simple application in NodeJS to resize images to different sizes with just one command.
 
