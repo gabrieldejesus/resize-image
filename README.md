@@ -4,7 +4,7 @@
 
 ![](web-preview.png)
 
-<p align="left">
+<p align="center">
   <img alt="PRs welcome!" src="https://img.shields.io/static/v1?label=PRs&message=WELCOME&style=for-the-badge&color=4A90E2&labelColor=222222" />
      
    <img alt="Stars" src="https://img.shields.io/github/stars/devgabrieldejesus/resize-image?color=4A90E2&label=STARS&logo=3C424B&logoColor=3C424B&style=for-the-badge&labelColor=222222" />
